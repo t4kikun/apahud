@@ -3032,6 +3032,8 @@ Scheme
 			}
 		}
 		
+		//Timeless font
+		
 		Timeless12
 		{
 			"1"
@@ -3098,6 +3100,98 @@ Scheme
 			{
 				"name"		"Timeless-Normal"
 				"tall"		"48"
+				"antialias" "1"
+			}
+		}
+		
+		Timeless56
+		{
+			"1"
+			{
+				"name"		"Timeless-Normal"
+				"tall"		"56"
+				"antialias" "1"
+			}
+		}
+		
+		// Timeless Bold fonts
+
+		TimelessBold12
+		{
+			"1"
+			{
+				"name"		"Timeless-Bold"
+				"tall"		"12"
+				"antialias" "1"
+			}
+		}
+		
+		TimelessBold16
+		{
+			"1"
+			{
+				"name"		"Timeless-Bold"
+				"tall"		"16"
+				"antialias" "1"
+			}
+		}
+		
+		TimelessBold24
+		{
+			"1"
+			{
+				"name"		"Timeless-Bold"
+				"tall"		"24"
+				"antialias" "1"
+			}
+		}
+		
+		TimelessBold32
+		{
+			"1"
+			{
+				"name"		"Timeless-Bold"
+				"tall"		"32"
+				"antialias" "1"
+			}
+		}
+		
+		TimelessBold36
+		{
+			"1"
+			{
+				"name"		"Timeless-Bold"
+				"tall"		"36"
+				"antialias" "1"
+			}
+		}
+		
+		TimelessBold42
+		{
+			"1"
+			{
+				"name"		"Timeless-Bold"
+				"tall"		"42"
+				"antialias" "1"
+			}
+		}
+		
+		TimelessBold48
+		{
+			"1"
+			{
+				"name"		"Timeless-Bold"
+				"tall"		"48"
+				"antialias" "1"
+			}
+		}
+		
+		TimelessBold56
+		{
+			"1"
+			{
+				"name"		"Timeless-Bold"
+				"tall"		"56"
 				"antialias" "1"
 			}
 		}
